@@ -52,4 +52,4 @@ Below shows the results of the precipitation in December.
 
 ![](/Resources/precipitation_december.png)
 
-As can be concluded from the analysis that the precipitations in June are generally higher than those in December, which also makes sense. The maximum precipitations and quartiles in June are all higher than those in December. As a matter of dispersion, the range and the standard deviation of the precipitations in June are higher than those in December. 
+As can be concluded from the analysis that the precipitations in December are generally higher than those in June, which also makes sense. The maximum precipitations and quartiles in December are all higher than those in June. As a matter of dispersion, the range and the standard deviation of the precipitations in December are higher than those in June. 
